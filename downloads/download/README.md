@@ -17,7 +17,7 @@
 
 | # | File | Link |
 |---|------|------|
-| 1 | `download.zip` | [Download](https://github.com/Mrcrow6887/down/raw/main/downloads/download/download.zip) |
+| 1 | `download.zip` | [Download](https://github.com/Mrcrow6887/down/raw/second/downloads/download/download.zip) |
 
 ---
 
