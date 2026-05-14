@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `download` |
-| **Total Size** | **4 parts** - **286.79 MB** |
+| **Total Size** | **5 parts** - **427.21 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -20,7 +20,8 @@
 | 1 | `download.z01` | [Download](https://github.com/Mrcrow6887/down/raw/main/downloads/download/download.z01) |
 | 2 | `download.z02` | [Download](https://github.com/Mrcrow6887/down/raw/main/downloads/download/download.z02) |
 | 3 | `download.z03` | [Download](https://github.com/Mrcrow6887/down/raw/main/downloads/download/download.z03) |
-| 4 | `download.zip` | [Download](https://github.com/Mrcrow6887/down/raw/main/downloads/download/download.zip) |
+| 4 | `download.z04` | [Download](https://github.com/Mrcrow6887/down/raw/main/downloads/download/download.z04) |
+| 5 | `download.zip` | [Download](https://github.com/Mrcrow6887/down/raw/main/downloads/download/download.zip) |
 
 ---
 
